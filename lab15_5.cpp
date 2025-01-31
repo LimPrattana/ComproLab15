@@ -20,3 +20,6 @@ int main(){
 
 //Do not modify the code above this line
 //Write definition of shuffle() using pointer after this line. 
+void shuffle(int *m1,int *m2,int *m3,int *m4){
+	
+}
